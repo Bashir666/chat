@@ -21,12 +21,15 @@ The biggest challenge was to achieve a smooth and fast experience with a design 
 users  1
 email:admin@gmail.com
 pass:12345678
+
 user  2
 email:mohammed@gmail.com
 pass:12345678
+
 user 3
 email:hayat@gmail.com
 pass:12345678
+
 pusher webside:https://dashboard.pusher.com/ 
 In the pusher, log in, create a channel, and go to App Keys to configure the env file. With the help of the documentation in Laravel
 *******************************************************************************************************************************************************************************************************************************************************************************
