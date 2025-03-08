@@ -30,9 +30,4 @@ pass:12345678
 pusher webside:https://dashboard.pusher.com/ 
 In the pusher, log in, create a channel, and go to App Keys to configure the env file. With the help of the documentation in Laravel
 *******************************************************************************************************************************************************************************************************************************************************************************
-![ image alt ](![image](https://github.com/user-attachments/assets/dc9f9019-1f74-4103-b433-9da04af8df5c)
-)
-![ image alt ]([image_url](https://github.com/Bashir666/chat/blob/6498b1a7477e84adb2e46bc7e8cbb05b02b1beaf/Screenshot%202025-03-08%20095802.png))
-![image alt]([image_url](https://github.com/Bashir666/chat/blob/6498b1a7477e84adb2e46bc7e8cbb05b02b1beaf/Screenshot%202025-03-08%20095619.png))
-![image alt]([image_url](https://github.com/Bashir666/chat/blob/6498b1a7477e84adb2e46bc7e8cbb05b02b1beaf/Screenshot%202025-03-08%20095703.png))
-![image alt]([image_url](https://github.com/Bashir666/chat/blob/6498b1a7477e84adb2e46bc7e8cbb05b02b1beaf/Screenshot%202025-03-08%20095715.png))
+![image alt](https://github.com/Bashir666/chat/blob/d09464f71198ac452b27e7cfbbc03c68a9a063a6/Screenshot%202025-03-08%20095802.png)
